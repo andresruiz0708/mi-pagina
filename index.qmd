@@ -7,7 +7,7 @@ author:
     affiliation-url: "https://www.ut.edu.co/"
 date: today
 lang: es
-title-block-banner: "#98b6ed"
+title-block-banner: "#4577d1"
 
 format:
   html:
@@ -83,7 +83,7 @@ packages <- c("tidyverse","kableExtra","knitr","dplyr","ggplot2","psych","readxl
 ipak(packages)
 ```
 
-[@tidyverse; @kableExtra; @knitr; @dplyr; @ggplot2; @psych; @readxl,@chatgpt2026]
+[@tidyverse; @kableExtra; @knitr; @dplyr; @ggplot2; @psych; @readxl; @chatgpt2026]
 
 # Introduccion
 
@@ -3886,6 +3886,5 @@ kbl(
 ```
 
 **Interpretación**:La tabla presenta algunos valores representativos de la variable continua, junto con la densidad y la función acumulada. Se observa que la densidad aumenta hasta $x=20$ y luego disminuye, mientras la acumulada crece de manera continua hasta alcanzar el valor $1$ en $x=50$.
-
 
 # Bibliografia
